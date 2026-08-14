@@ -1,0 +1,2 @@
+# CS3Li_Cordova
+DIAGNOSTIC
